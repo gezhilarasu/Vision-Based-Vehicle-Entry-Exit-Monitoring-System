@@ -1,4 +1,7 @@
-opencv-python-headless==4.10.0.84
-ultralytics
-streamlit
-lap
+streamlit>=1.28.0
+opencv-python>=4.8.0.76
+ultralytics>=8.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+pathlib2>=2.3.7
+tempfile36>=0.2.1
