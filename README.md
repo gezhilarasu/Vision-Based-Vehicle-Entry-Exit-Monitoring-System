@@ -320,10 +320,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the web application framework
 - OpenCV community for computer vision tools
 
-## 📞 Support
-
-For support, email your-email@example.com or create an issue in this repository.
-
----
-
 **⭐ Star this repository if you found it helpful!**
