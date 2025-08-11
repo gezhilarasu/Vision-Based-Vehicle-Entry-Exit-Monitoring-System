@@ -311,7 +311,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* -G EZHILARASU
+- **Your Name** - G EZHILARASU
 
 ## 🙏 Acknowledgments
 
