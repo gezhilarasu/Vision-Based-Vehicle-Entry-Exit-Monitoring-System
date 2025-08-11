@@ -103,6 +103,7 @@ class VehicleManagementSystem:
         if prev_y > self.counting_line_y and curr_y <= self.counting_line_y:
             self.last_count_frame[track_id] = self.frame_idx
             self.vehicle_counts['out'] += 1
+            self.vehicle_counts['total'] += 1
             self.vehicle_states[track_id] = {'direction': 'out', 'frame': self.frame_idx}
             return 'out'
 
