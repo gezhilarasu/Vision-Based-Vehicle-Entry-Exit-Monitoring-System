@@ -55,7 +55,7 @@ class VehicleManagementSystem:
             'counting_line': (0, 255, 255)
         }
 
-    def setup_counting_line(self, frame_h, frame_w, ratio=0.5):
+    def setup_counting_line(self, frame_h, frame_w, ratio=0.7):
         """Setup counting line position"""
         self.counting_line_y = int(frame_h * ratio)
 
