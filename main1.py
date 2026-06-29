@@ -538,8 +538,8 @@ class TheaterParkingSystem:
 # ----------------- Main execution -----------------
 if __name__ == "__main__":
     # Configuration
-    MODEL_PATH = "D:\\Projects\\Vision-Based-Vehicle-Entry-Exit-Monitoring-System\\models\\my_trained_model.pt"
-    CAMERA_SOURCE = "D:\\Projects\\Vision-Based-Vehicle-Entry-Exit-Monitoring-System\\models\\videoplayback.mp4"
+    MODEL_PATH = "models/my_trained_model.pt"
+    CAMERA_SOURCE ="models/videoplayback.mp4"
     TOTAL_CAPACITY = 100  # Theater parking capacity
     
     print("🚗 Enhanced Vehicle In-Out Management System")
